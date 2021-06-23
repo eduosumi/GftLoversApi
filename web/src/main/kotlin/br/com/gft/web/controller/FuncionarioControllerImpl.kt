@@ -1,6 +1,6 @@
 package br.com.gft.web.controller
 
-import br.com.gft.entities.request.FuncionarioRequestBody
+import br.com.gft.web.request.FuncionarioRequestBody
 import br.com.gft.repository.FuncionarioRepository
 import br.com.gft.repository.domain.Funcionario
 import org.springframework.web.bind.annotation.PostMapping
